@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'proxima_nova_semibold';
+   font-display: swap;
+   src: url('proxima_nova_semibold/font.ttf');
+}
+@font-face {
+   font-family: 'proxima_nova_bold';
+   font-display: swap;
+   src: url('proxima_nova_bold/font.ttf');
+}
+@font-face {
+   font-family: 'proxima_nova_regular';
+   font-display: swap;
+   src: url('proxima_nova_regular/font.ttf');
+}
