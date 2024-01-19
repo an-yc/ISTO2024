@@ -3099,15 +3099,15 @@ a:hover {
   -webkit-filter: blur(64px) blur(64px);
   filter: blur(64px) blur(64px);
 }
-.cid-tOTR88yicV {
+.cid-u1MabHXQOU {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #00773b;
+  background-image: url("../../../assets/images/green-banner-with-mark-2000x831.png");
 }
-.cid-tOTR88yicV .mbr-fallback-image.disabled {
+.cid-u1MabHXQOU .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tOTR88yicV .mbr-fallback-image {
+.cid-u1MabHXQOU .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -3116,51 +3116,51 @@ a:hover {
   position: absolute;
   top: 0;
 }
-.cid-tOTR88yicV .row {
+.cid-u1MabHXQOU .row {
   margin: 0;
 }
-.cid-tOTR88yicV .content-wrapper {
+.cid-u1MabHXQOU .content-wrapper {
   position: relative;
   margin: 0 0px;
 }
 @media (max-width: 992px) {
-  .cid-tOTR88yicV .content-wrapper {
+  .cid-u1MabHXQOU .content-wrapper {
     margin: 0 15px;
   }
 }
 @media (max-width: 767px) {
-  .cid-tOTR88yicV .content-wrapper {
+  .cid-u1MabHXQOU .content-wrapper {
     margin: 0px;
   }
 }
-.cid-tOTR88yicV .content-wrapper .mbr-section-title {
+.cid-u1MabHXQOU .content-wrapper .mbr-section-title {
   margin-bottom: 20px;
   padding-top: 20px;
 }
 @media (max-width: 992px) {
-  .cid-tOTR88yicV .content-wrapper .mbr-section-title {
+  .cid-u1MabHXQOU .content-wrapper .mbr-section-title {
     padding-top: 12px;
     margin-bottom: 12px;
   }
 }
-.cid-tOTR88yicV .content-wrapper .list-wrapper .mbr-item {
+.cid-u1MabHXQOU .content-wrapper .list-wrapper .mbr-item {
   padding: 15px 10px 15px 10px;
   border-top: 2px solid #ecbc16;
   margin: 0;
 }
-.cid-tOTR88yicV .content-wrapper .list-wrapper .mbr-item:first-child {
+.cid-u1MabHXQOU .content-wrapper .list-wrapper .mbr-item:first-child {
   border: none;
 }
 @media (max-width: 992px) {
-  .cid-tOTR88yicV .content-wrapper .list-wrapper .mbr-item {
+  .cid-u1MabHXQOU .content-wrapper .list-wrapper .mbr-item {
     padding: 10px 0 10px 0;
   }
 }
-.cid-tOTR88yicV .mbr-section-title {
-  color: #ffffff;
+.cid-u1MabHXQOU .mbr-section-title {
+  color: #ecbc16;
   text-align: left;
 }
-.cid-tOTR88yicV .mbr-item {
+.cid-u1MabHXQOU .mbr-item {
   color: #ffffff;
 }
 .cid-tOTLK5hXN4 {
@@ -3404,70 +3404,6 @@ a:hover {
 }
 .cid-tMKmDO5gEk .mbr-section-btn {
   margin-top: 10px;
-}
-.cid-u1JYj4fF81 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-u1JYj4fF81 .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-u1JYj4fF81 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-u1JYj4fF81 .row {
-  margin: 0;
-}
-.cid-u1JYj4fF81 .content-wrapper {
-  position: relative;
-  margin: 0 0px;
-}
-@media (max-width: 992px) {
-  .cid-u1JYj4fF81 .content-wrapper {
-    margin: 0 15px;
-  }
-}
-@media (max-width: 767px) {
-  .cid-u1JYj4fF81 .content-wrapper {
-    margin: 0px;
-  }
-}
-.cid-u1JYj4fF81 .content-wrapper .mbr-section-title {
-  margin-bottom: 20px;
-  padding-top: 20px;
-}
-@media (max-width: 992px) {
-  .cid-u1JYj4fF81 .content-wrapper .mbr-section-title {
-    padding-top: 12px;
-    margin-bottom: 12px;
-  }
-}
-.cid-u1JYj4fF81 .content-wrapper .list-wrapper .mbr-item {
-  padding: 15px 10px 15px 10px;
-  border-top: 2px solid #ecbc16;
-  margin: 0;
-}
-.cid-u1JYj4fF81 .content-wrapper .list-wrapper .mbr-item:first-child {
-  border: none;
-}
-@media (max-width: 992px) {
-  .cid-u1JYj4fF81 .content-wrapper .list-wrapper .mbr-item {
-    padding: 10px 0 10px 0;
-  }
-}
-.cid-u1JYj4fF81 .mbr-section-title {
-  color: #000000;
-  text-align: left;
-}
-.cid-u1JYj4fF81 .mbr-item {
-  color: #ffffff;
 }
 .cid-tOCumwZ2Hn {
   padding-top: 4rem;
@@ -12709,7 +12645,7 @@ a:hover {
 }
 .cid-tOwy1gzZPZ .mbr-section-subtitle {
   text-align: left;
-  color: #010d4c;
+  color: #000000;
 }
 .cid-u1JNJSKza4 {
   padding-top: 6rem;
@@ -14896,15 +14832,15 @@ a:hover {
   border-radius: 15px;
   color: inherit;
 }
-.cid-u1JMP63l4g {
+.cid-u1Ma40Qb8l {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #00773b;
+  background-image: url("../../../assets/images/green-banner-with-mark-2000x831.png");
 }
-.cid-u1JMP63l4g .mbr-fallback-image.disabled {
+.cid-u1Ma40Qb8l .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-u1JMP63l4g .mbr-fallback-image {
+.cid-u1Ma40Qb8l .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -14913,51 +14849,51 @@ a:hover {
   position: absolute;
   top: 0;
 }
-.cid-u1JMP63l4g .row {
+.cid-u1Ma40Qb8l .row {
   margin: 0;
 }
-.cid-u1JMP63l4g .content-wrapper {
+.cid-u1Ma40Qb8l .content-wrapper {
   position: relative;
   margin: 0 0px;
 }
 @media (max-width: 992px) {
-  .cid-u1JMP63l4g .content-wrapper {
+  .cid-u1Ma40Qb8l .content-wrapper {
     margin: 0 15px;
   }
 }
 @media (max-width: 767px) {
-  .cid-u1JMP63l4g .content-wrapper {
+  .cid-u1Ma40Qb8l .content-wrapper {
     margin: 0px;
   }
 }
-.cid-u1JMP63l4g .content-wrapper .mbr-section-title {
+.cid-u1Ma40Qb8l .content-wrapper .mbr-section-title {
   margin-bottom: 20px;
   padding-top: 20px;
 }
 @media (max-width: 992px) {
-  .cid-u1JMP63l4g .content-wrapper .mbr-section-title {
+  .cid-u1Ma40Qb8l .content-wrapper .mbr-section-title {
     padding-top: 12px;
     margin-bottom: 12px;
   }
 }
-.cid-u1JMP63l4g .content-wrapper .list-wrapper .mbr-item {
+.cid-u1Ma40Qb8l .content-wrapper .list-wrapper .mbr-item {
   padding: 15px 10px 15px 10px;
   border-top: 2px solid #ecbc16;
   margin: 0;
 }
-.cid-u1JMP63l4g .content-wrapper .list-wrapper .mbr-item:first-child {
+.cid-u1Ma40Qb8l .content-wrapper .list-wrapper .mbr-item:first-child {
   border: none;
 }
 @media (max-width: 992px) {
-  .cid-u1JMP63l4g .content-wrapper .list-wrapper .mbr-item {
+  .cid-u1Ma40Qb8l .content-wrapper .list-wrapper .mbr-item {
     padding: 10px 0 10px 0;
   }
 }
-.cid-u1JMP63l4g .mbr-section-title {
-  color: #000000;
+.cid-u1Ma40Qb8l .mbr-section-title {
+  color: #ecbc16;
   text-align: left;
 }
-.cid-u1JMP63l4g .mbr-item {
+.cid-u1Ma40Qb8l .mbr-item {
   color: #ffffff;
 }
 .cid-tOCumwZ2Hn {
@@ -16394,15 +16330,15 @@ a:hover {
   border-radius: 15px;
   color: inherit;
 }
-.cid-u1JNphTLnL {
+.cid-u1M9EGoGfq {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #00773b;
+  background-image: url("../../../assets/images/green-banner-with-mark-2000x831.png");
 }
-.cid-u1JNphTLnL .mbr-fallback-image.disabled {
+.cid-u1M9EGoGfq .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-u1JNphTLnL .mbr-fallback-image {
+.cid-u1M9EGoGfq .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -16411,51 +16347,51 @@ a:hover {
   position: absolute;
   top: 0;
 }
-.cid-u1JNphTLnL .row {
+.cid-u1M9EGoGfq .row {
   margin: 0;
 }
-.cid-u1JNphTLnL .content-wrapper {
+.cid-u1M9EGoGfq .content-wrapper {
   position: relative;
   margin: 0 0px;
 }
 @media (max-width: 992px) {
-  .cid-u1JNphTLnL .content-wrapper {
+  .cid-u1M9EGoGfq .content-wrapper {
     margin: 0 15px;
   }
 }
 @media (max-width: 767px) {
-  .cid-u1JNphTLnL .content-wrapper {
+  .cid-u1M9EGoGfq .content-wrapper {
     margin: 0px;
   }
 }
-.cid-u1JNphTLnL .content-wrapper .mbr-section-title {
+.cid-u1M9EGoGfq .content-wrapper .mbr-section-title {
   margin-bottom: 20px;
   padding-top: 20px;
 }
 @media (max-width: 992px) {
-  .cid-u1JNphTLnL .content-wrapper .mbr-section-title {
+  .cid-u1M9EGoGfq .content-wrapper .mbr-section-title {
     padding-top: 12px;
     margin-bottom: 12px;
   }
 }
-.cid-u1JNphTLnL .content-wrapper .list-wrapper .mbr-item {
+.cid-u1M9EGoGfq .content-wrapper .list-wrapper .mbr-item {
   padding: 15px 10px 15px 10px;
   border-top: 2px solid #ecbc16;
   margin: 0;
 }
-.cid-u1JNphTLnL .content-wrapper .list-wrapper .mbr-item:first-child {
+.cid-u1M9EGoGfq .content-wrapper .list-wrapper .mbr-item:first-child {
   border: none;
 }
 @media (max-width: 992px) {
-  .cid-u1JNphTLnL .content-wrapper .list-wrapper .mbr-item {
+  .cid-u1M9EGoGfq .content-wrapper .list-wrapper .mbr-item {
     padding: 10px 0 10px 0;
   }
 }
-.cid-u1JNphTLnL .mbr-section-title {
-  color: #ffffff;
+.cid-u1M9EGoGfq .mbr-section-title {
+  color: #ecbc16;
   text-align: left;
 }
-.cid-u1JNphTLnL .mbr-item {
+.cid-u1M9EGoGfq .mbr-item {
   color: #ffffff;
 }
 .cid-tOCumwZ2Hn {
@@ -19824,7 +19760,7 @@ a:hover {
 .cid-u1JMEm6tv6 {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #00773b;
+  background-image: url("../../../assets/images/green-banner-with-mark-2000x831.png");
 }
 .cid-u1JMEm6tv6 .mbr-fallback-image.disabled {
   display: none;
@@ -19879,7 +19815,7 @@ a:hover {
   }
 }
 .cid-u1JMEm6tv6 .mbr-section-title {
-  color: #000000;
+  color: #ecbc16;
   text-align: left;
 }
 .cid-u1JMEm6tv6 .mbr-item {
