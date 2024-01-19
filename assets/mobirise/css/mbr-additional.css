@@ -11686,15 +11686,15 @@ a:hover {
   position: absolute;
   top: 0;
 }
-.cid-u1JMjJ22bs {
-  padding-top: 3rem;
+.cid-u1MjFgXef6 {
+  padding-top: 4rem;
   padding-bottom: 5rem;
-  background-color: #00773b;
+  background-image: url("../../../assets/images/green-banner-with-mark-2000x831.png");
 }
-.cid-u1JMjJ22bs .mbr-fallback-image.disabled {
+.cid-u1MjFgXef6 .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-u1JMjJ22bs .mbr-fallback-image {
+.cid-u1MjFgXef6 .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -11703,51 +11703,59 @@ a:hover {
   position: absolute;
   top: 0;
 }
-.cid-u1JMjJ22bs .row {
+.cid-u1MjFgXef6 .row {
   margin: 0;
 }
-.cid-u1JMjJ22bs .content-wrapper {
+.cid-u1MjFgXef6 .content-wrapper {
   position: relative;
   margin: 0 0px;
 }
 @media (max-width: 992px) {
-  .cid-u1JMjJ22bs .content-wrapper {
+  .cid-u1MjFgXef6 .content-wrapper {
     margin: 0 15px;
   }
 }
 @media (max-width: 767px) {
-  .cid-u1JMjJ22bs .content-wrapper {
+  .cid-u1MjFgXef6 .content-wrapper {
     margin: 0px;
   }
 }
-.cid-u1JMjJ22bs .content-wrapper .mbr-section-title {
+.cid-u1MjFgXef6 .content-wrapper .mbr-section-title {
   margin-bottom: 20px;
   padding-top: 20px;
 }
 @media (max-width: 992px) {
-  .cid-u1JMjJ22bs .content-wrapper .mbr-section-title {
+  .cid-u1MjFgXef6 .content-wrapper .mbr-section-title {
     padding-top: 12px;
     margin-bottom: 12px;
   }
 }
-.cid-u1JMjJ22bs .content-wrapper .list-wrapper .mbr-item {
+.cid-u1MjFgXef6 .content-wrapper .list-wrapper .mbr-item {
   padding: 15px 10px 15px 10px;
-  border-top: 2px solid #ecbc16;
+  border-top: 2px solid #00a54d;
   margin: 0;
 }
-.cid-u1JMjJ22bs .content-wrapper .list-wrapper .mbr-item:first-child {
+.cid-u1MjFgXef6 .content-wrapper .list-wrapper .mbr-item:first-child {
   border: none;
 }
 @media (max-width: 992px) {
-  .cid-u1JMjJ22bs .content-wrapper .list-wrapper .mbr-item {
+  .cid-u1MjFgXef6 .content-wrapper .list-wrapper .mbr-item {
     padding: 10px 0 10px 0;
   }
 }
-.cid-u1JMjJ22bs .mbr-section-title {
-  color: #000000;
-  text-align: left;
+.cid-u1MjFgXef6 .mbr-section-title {
+  color: #ecbc16;
+  text-align: center;
 }
-.cid-u1JMjJ22bs .mbr-item {
+.cid-u1MjFgXef6 .mbr-item {
+  color: #ffffff;
+}
+.cid-u1MjFgXef6 .colored-text {
+  color: #ecbc16;
+  line-height: inherit;
+}
+.cid-u1MjFgXef6 .mbr-section-title,
+.cid-u1MjFgXef6 .mbr-section-btn {
   color: #ffffff;
 }
 .cid-tOwxIxTueT {
