@@ -1182,7 +1182,7 @@ a:hover {
 }
 .cid-u1IX3Efw0r {
   padding-top: 10rem;
-  padding-bottom: 7rem;
+  padding-bottom: 4rem;
   background-color: #fbfffd;
   overflow: hidden;
   position: relative;
@@ -17811,7 +17811,7 @@ a:hover {
 .cid-u1JQzkuYc8 {
   padding-top: 10rem;
   padding-bottom: 7rem;
-  background-color: #00773b;
+  background-color: #ecbc16;
   overflow: hidden;
   position: relative;
 }
@@ -17820,7 +17820,7 @@ a:hover {
   position: static;
 }
 .cid-u1JQzkuYc8 .mbr-section-title {
-  color: #ffffff;
+  color: #00773b;
 }
 .cid-u1JQzkuYc8 .colored-text {
   color: #913bff;
@@ -17915,7 +17915,10 @@ a:hover {
 }
 .cid-u1JQzkuYc8 .mbr-text,
 .cid-u1JQzkuYc8 .mbr-section-btn {
-  color: #ffffff;
+  color: #00773b;
+}
+.cid-u1JQzkuYc8 .mbr-section-title DIV {
+  text-align: left;
 }
 .cid-tYGaLmHSsB {
   padding-top: 2rem;
@@ -17964,8 +17967,6 @@ a:hover {
 .cid-tYG8JEdDLD .colored-text {
   color: #00773b;
   line-height: inherit;
-  text-decoration: underline;
-  text-decoration-thickness: 4px;
 }
 .cid-tYG8JEdDLD .mbr-text {
   color: #00284E;
@@ -20743,7 +20744,6 @@ a:hover {
 }
 .cid-u2XRD7dwrt .list-wrapper .card-wrapper .mbr-desc {
   margin-bottom: auto;
-  padding: 15px 0;
 }
 @media (max-width: 992px) {
   .cid-u2XRD7dwrt .list-wrapper .card-wrapper .mbr-desc {
