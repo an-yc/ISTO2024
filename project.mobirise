@@ -130,7 +130,7 @@
       "textButton": "ACCEPT",
       "rejectText": "REJECT"
     },
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "usedWebp": false,
     "gdpr": {
       "colorText": "#a7a7a7",
